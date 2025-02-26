@@ -10,11 +10,19 @@ Authors@R: c(
   )
 Description: Protocol deviations modules for use in the `gsm.app` package.
 License: Apache License (>= 2)
+URL: https://openrbqm.github.io/gsm.pd/,
+    https://github.com/OpenRBQM/gsm.pd
+BugReports: https://github.com/OpenRBQM/gsm.pd/issues
 Depends: 
     R (>= 4.0)
+Imports: 
+    gsm.app (>= 2.3.0.9000)
+Suggests: 
+    testthat (>= 3.0.0)
+Remotes:
+    gsm.app=gilead-biostats/gsm.app@dev
+Config/testthat/edition: 3
 Encoding: UTF-8
 Language: en-US
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
-URL: https://github.com/OpenRBQM/gsm.pd
-BugReports: https://github.com/OpenRBQM/gsm.pd/issues

@@ -4,6 +4,12 @@
 # gsm.pd: Protocol Deviations Plugin
 
 <!-- badges: start -->
+
+[![Lifecycle:
+experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![Codecov test
+coverage](https://codecov.io/gh/OpenRBQM/gsm.pd/graph/badge.svg)](https://app.codecov.io/gh/OpenRBQM/gsm.pd)
+[![R-CMD-check](https://github.com/OpenRBQM/gsm.pd/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/OpenRBQM/gsm.pd/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 gsm.pd provides Shiny modules and a plugin for use in apps created with

@@ -3,3 +3,8 @@
 ^LICENSE\.md$
 ^README\.Rmd$
 ^\.github$
+^codecov\.yml$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^app\.R$
